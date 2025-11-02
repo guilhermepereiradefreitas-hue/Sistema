@@ -70,6 +70,8 @@ Próximos passos sugeridos
 - Conectar os botões da interface (`Interface.py`) às funções do `Projeto_de_Cadastro_de_Funcionarios_main.py`.
 - Adicionar pequenos testes unitários para as funções de banco.
 - Pense em adicionar criptografia/backup do arquivo SQLite para proteção de dados.
+- criar um app Mobile para atribuir registros de Faltas, Advertencias, observaços todos os dados serão armazenados no Banco de Dados inserido no `Projeto_de_Cadastro_de_Funcionarios_main.py`.
+- Adicionar opção de Download de Arquivo pdf ou Word contido o contracheque com os descontos atraves das informações passadas outomaticamente `Funcionario.db` na pasta do projeto
 
 Licença
 -------
