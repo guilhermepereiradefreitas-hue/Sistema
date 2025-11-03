@@ -70,13 +70,27 @@ Próximos passos sugeridos
 - Conectar os botões da interface (`Interface.py`) às funções do `Projeto_de_Cadastro_de_Funcionarios_main.py`.
 - Adicionar pequenos testes unitários para as funções de banco.
 - Pense em adicionar criptografia/backup do arquivo SQLite para proteção de dados.
-- criar um app Mobile para atribuir registros de Faltas, Advertencias, observaços todos os dados serão armazenados no Banco de Dados inserido no `Projeto_de_Cadastro_de_Funcionarios_main.py`.
 - Adicionar opção de Download de Arquivo pdf ou Word contido o contracheque com os descontos atraves das informações passadas outomaticamente `Funcionario.db` na pasta do projeto
+- Implementação de relatórios em PDF
+- Criptografia de dados sensíveis
+- Filtros avançados de busca
+- Integração com sistemas externos
+- App mobile para registro de ponto e advertências
+- Geração automática de contracheques em PDF
+- Dashboard com métricas de RH
 
 Licença
 -------
 Coloque aqui o tipo de licença (por exemplo, MIT) ou uma nota indicando uso privado.
 
-Contato
--------
-Projeto mantido localmente. Para dúvidas ou melhorias, abra um issue ou entre em contato com o autor do projeto.
+Autor
+------
+**Guilherme Pereira**
+- GitHub: [guilhermepereiradefreitas-hue](https://github.com/guilhermepereiradefreitas-hue)
+- Desenvolvedor Full Stack
+- Especialista em Python e Desenvolvimento de Sistemas
+
+---
+⌨️ Desenvolvido por Guilherme Pereira
+
+© 2025 Guilherme Pereira - Todos os direitos reservados
